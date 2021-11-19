@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: url(img/gala.jpg)
+    
+    
+}
+
+header{
+    background-color: #1C1132;
+    color: aliceblue;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+img{
+height: 94px;
+}
+
+.bg-card-primary{
+    background-color: #1C1132;
+    color: aliceblue;
+}
+
+footer{
+    background-color: #1C1132;
+    color: aliceblue;
+    padding: 10px;
+    height: 85px;
+    font-family: 'Times New Roman', Times, serif
+}
